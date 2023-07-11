@@ -1,4 +1,6 @@
 # Tech Enthusiast
+=> Frontend - HTML, CSS, JavaScript, Bootstrap => Backend - Node JS, Express JS => Database - Mongo DB => Deployment - GitHub, Git, Heroku
+
 Code for hackCBS hackathon 5.0. 😊
 
 This web application is designed for the students/ candidates who all are facing issues for preparation of offline exams. 
